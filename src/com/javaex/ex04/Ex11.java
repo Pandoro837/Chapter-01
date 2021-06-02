@@ -8,7 +8,7 @@ public class Ex11 {
 			if (i % 2 == 0 && i % 3 ==0) {
 //				break;1
 				continue;
-			}
+			} 
 			System.out.println(i);
 		}
 		
