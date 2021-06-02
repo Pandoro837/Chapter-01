@@ -19,7 +19,7 @@ public class Ex09 {
 				break;
 				
 			} else {
-				
+				 
 				if (iNum % 3 == 0) {
 		
 					System.out.println(iNum + "은 3의 배수입니다.");
